@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "apidoc-core": "~0.7.1",
+    "apidoc-core": "classmates/apidoc-core#v0.7.2",
     "fs-extra": "~0.28.0",
     "lodash": "~4.11.1",
     "markdown-it": "^6.0.1",
